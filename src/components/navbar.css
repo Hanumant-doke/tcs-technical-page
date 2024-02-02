@@ -1,0 +1,17 @@
+/* Navbar.css */
+.navbar {
+    background-color: #343a40;
+    /* Set your desired background color */
+}
+
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+    /* Set the text color to white */
+}
+
+/* Optionally, you can add more styling for other elements as needed */
+
+.navbar-dark .navbar-nav .nav-item {
+    background-color: black;
+}
